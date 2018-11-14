@@ -5,9 +5,9 @@
   <subtitle>Room 101</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://samgeoo.github.io/"/>
   <updated>2018-11-13T04:43:21.139Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://samgeoo.github.io/</id>
   
   <author>
     <name>癸癸/枕流</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>《羞耻之书之贼把自己的心偷走了》</title>
-    <link href="http://yoursite.com/2018/11/13/%E3%80%8A%E7%BE%9E%E8%80%BB%E4%B9%8B%E4%B9%A6%E4%B9%8B%E8%B4%BC%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%81%B7%E8%B5%B0%E4%BA%86%E3%80%8B/"/>
-    <id>http://yoursite.com/2018/11/13/《羞耻之书之贼把自己的心偷走了》/</id>
+    <link href="http://samgeoo.github.io/2018/11/13/%E3%80%8A%E7%BE%9E%E8%80%BB%E4%B9%8B%E4%B9%A6%E4%B9%8B%E8%B4%BC%E6%8A%8A%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E5%81%B7%E8%B5%B0%E4%BA%86%E3%80%8B/"/>
+    <id>http://samgeoo.github.io/2018/11/13/《羞耻之书之贼把自己的心偷走了》/</id>
     <published>2018-11-13T04:39:18.000Z</published>
     <updated>2018-11-13T04:43:21.139Z</updated>
     
@@ -36,17 +36,17 @@
     
     </summary>
     
-      <category term="《羞耻之书》系列" scheme="http://yoursite.com/categories/%E3%80%8A%E7%BE%9E%E8%80%BB%E4%B9%8B%E4%B9%A6%E3%80%8B%E7%B3%BB%E5%88%97/"/>
+      <category term="《羞耻之书》系列" scheme="http://samgeoo.github.io/categories/%E3%80%8A%E7%BE%9E%E8%80%BB%E4%B9%8B%E4%B9%A6%E3%80%8B%E7%B3%BB%E5%88%97/"/>
     
     
-      <category term="手札、随笔" scheme="http://yoursite.com/tags/%E6%89%8B%E6%9C%AD%E3%80%81%E9%9A%8F%E7%AC%94/"/>
+      <category term="手札、随笔" scheme="http://samgeoo.github.io/tags/%E6%89%8B%E6%9C%AD%E3%80%81%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
   <entry>
     <title>《地心说》</title>
-    <link href="http://yoursite.com/2018/11/13/%E3%80%8A%E5%9C%B0%E5%BF%83%E8%AF%B4%E3%80%8B/"/>
-    <id>http://yoursite.com/2018/11/13/《地心说》/</id>
+    <link href="http://samgeoo.github.io/2018/11/13/%E3%80%8A%E5%9C%B0%E5%BF%83%E8%AF%B4%E3%80%8B/"/>
+    <id>http://samgeoo.github.io/2018/11/13/《地心说》/</id>
     <published>2018-11-12T16:31:56.000Z</published>
     <updated>2018-11-12T17:09:09.114Z</updated>
     
@@ -63,17 +63,17 @@
     
     </summary>
     
-      <category term="随笔漫谈" scheme="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94%E6%BC%AB%E8%B0%88/"/>
+      <category term="随笔漫谈" scheme="http://samgeoo.github.io/categories/%E9%9A%8F%E7%AC%94%E6%BC%AB%E8%B0%88/"/>
     
     
-      <category term="历史、漫谈" scheme="http://yoursite.com/tags/%E5%8E%86%E5%8F%B2%E3%80%81%E6%BC%AB%E8%B0%88/"/>
+      <category term="历史、漫谈" scheme="http://samgeoo.github.io/tags/%E5%8E%86%E5%8F%B2%E3%80%81%E6%BC%AB%E8%B0%88/"/>
     
   </entry>
   
   <entry>
     <title>骗子与胆小鬼</title>
-    <link href="http://yoursite.com/2018/11/12/%E9%AA%97%E5%AD%90%E4%B8%8E%E8%83%86%E5%B0%8F%E9%AC%BC/"/>
-    <id>http://yoursite.com/2018/11/12/骗子与胆小鬼/</id>
+    <link href="http://samgeoo.github.io/2018/11/12/%E9%AA%97%E5%AD%90%E4%B8%8E%E8%83%86%E5%B0%8F%E9%AC%BC/"/>
+    <id>http://samgeoo.github.io/2018/11/12/骗子与胆小鬼/</id>
     <published>2018-11-12T14:51:34.000Z</published>
     <updated>2018-11-12T15:02:34.543Z</updated>
     
@@ -90,14 +90,14 @@
     </summary>
     
     
-      <category term="随笔、散文" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94%E3%80%81%E6%95%A3%E6%96%87/"/>
+      <category term="随笔、散文" scheme="http://samgeoo.github.io/tags/%E9%9A%8F%E7%AC%94%E3%80%81%E6%95%A3%E6%96%87/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/11/12/hello-world/"/>
-    <id>http://yoursite.com/2018/11/12/hello-world/</id>
+    <link href="http://samgeoo.github.io/2018/11/12/hello-world/"/>
+    <id>http://samgeoo.github.io/2018/11/12/hello-world/</id>
     <published>2018-11-12T03:28:24.921Z</published>
     <updated>2018-11-12T03:28:24.921Z</updated>
     
